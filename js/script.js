@@ -85,7 +85,7 @@ btnLogin.addEventListener('click', () => {
 
     /*console.log(ArrayValue);*/
 
-    const LoginUser = async () => {
+    const loginUser = async () => {
         
         try {
             
@@ -112,6 +112,6 @@ btnLogin.addEventListener('click', () => {
 
     }
 
-    LoginUser();
+    loginUser();
     
 });
